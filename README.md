@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by [Makino Anju].*
+*This project has been created as part of the 42 curriculum by [Makino Anjou].*
 
 ---
 
@@ -37,7 +37,7 @@ This project utilized **Google Gemini** for conceptual clarification (especially
 
 ---
 
-## Detailed Library Description / 図書館の詳細
+## Detailed Library Description / ライブラリの詳細
 
 ### 1. Libc Functions
 `ft_strlen`, `ft_memset`, `ft_bzero`, `ft_memcpy`, `ft_memmove`, `ft_strlcpy`, `ft_strlcat`, `ft_toupper`, `ft_tolower`, `ft_strchr`, `ft_strrchr`, `ft_strncmp`, `ft_memchr`, `ft_memcmp`, `ft_strnstr`, `ft_atoi`, `ft_calloc`, `ft_strdup`.
